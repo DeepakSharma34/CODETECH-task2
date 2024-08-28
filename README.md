@@ -1,4 +1,4 @@
-# CODETECH - task2
+# CODTECH - task2
 
 # Project Overview: To-Do List Application
 # This project is a fully functional To-Do List Application designed to help users manage their tasks effectively. Built with HTML, CSS, and JavaScript, the application provides a seamless user experience with interactive features for task management. Key components and features include:
